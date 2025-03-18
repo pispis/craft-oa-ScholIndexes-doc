@@ -14,7 +14,7 @@ The OpenAIRE Graph is an open resource that aggregates a collection of research 
 | **Owner country** | EU (legal location Greece) |
 | **Launch year** | 2010 |
 | **Scope** | Any |
-| **Number of items** | 176 M publications |
+| **Number of items** | More than 298 M Research Products - publications (articles, conference objects, books and book chapters, preprints, reports, theses, projects et.al.), datasets, software, other research products |
 | **Access for index users** | Free |
 | **Access for index data providers** | Free |
 | **Documentation** | Guidelines for repository managers:  [https://openaire-guidelines-for-literature-repository-managers.readthedocs.io/en/v4.0.0/](https://openaire-guidelines-for-literature-repository-managers.readthedocs.io/en/v4.0.0/) |
